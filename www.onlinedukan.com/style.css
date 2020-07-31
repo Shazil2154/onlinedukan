@@ -1,0 +1,52 @@
+	.body{
+			background-color: #686868;
+		}
+		.jumbotron{
+			background-image: url("pics/jumboback2.jpg");
+			background-size: cover;
+			color: white;
+			height: 500px;
+		}
+		.navbar{
+			margin-top: -60px;
+			margin-bottom: 50px;
+		}
+		.products{
+			text-align: center;
+			transition: 1s;
+		}
+		.products img:hover{
+			transform: scale(1.5);
+		}
+		.title{
+			margin-top: -10px;
+			margin-bottom: 20px;
+		}
+		.left{
+			float: left;
+		}
+		.content{
+			clear: left;
+		}
+		.right{
+			float: right;
+			margin-top: 150px;
+			margin-right: 70px;
+		}
+		.fa{
+			padding: 20px;
+			width: 100px;
+			font-size: 200px;
+		}
+		#jumbotron{
+			background-image: url("pics/mylogo2.jpg");
+			background-size: cover;
+			color: white;
+			height: 650px;
+		}
+		.footer{
+			background-color: black;
+			width: 100%;
+			height: 250px;
+			text-align: center;
+		}
